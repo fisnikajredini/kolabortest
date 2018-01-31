@@ -94,3 +94,6 @@ background-color: white;
 	padding: 15px;
 
  }
+ ul.list {
+    list-style-type:circle;
+}
