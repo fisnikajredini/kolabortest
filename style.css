@@ -1,0 +1,96 @@
+#content{
+
+	position:relative;
+	height:100% !important;
+	font: 14px/1.4 'PT Sans Narrow', sans-serif;    
+    background-color: #FFF;
+    margin-left: auto;
+	margin-right: auto;
+
+}
+
+#left{
+	position: relative;
+	display:inline block;
+	float:left;
+	width: 75%;
+	text-align: center;
+	
+}
+#right{
+	display:inline block;
+	float:right;
+	width: 25%;
+	text-align: center;
+}
+
+#header {
+	display:inline block;
+	height: 125px;
+	width: 1000px;
+}
+
+#tittle{
+
+	 position: relative;
+        width: 240px;
+		left: 400px;
+        top: -80px;
+
+}
+
+.logoimg{
+	float:left;
+	width:100px;
+	height:109px;
+
+ }
+
+.section {
+	position: relative;
+	float: left;
+
+}
+.img{
+
+	width: 100%;
+	height: auto;
+}
+.sidenav{
+	position: relative;
+	float: right;
+
+}
+
+.sidetext{
+		position: relative;
+		float: right;
+		background-color: black;
+        width: 100%;
+		height: auto;
+		padding: 12px;
+		color: white;
+		margin-top: 0px;
+}
+
+
+
+#footer {
+display:inline block
+background-color: white;
+
+	
+ }
+ 
+ .footertext{
+
+ 	float:left;
+ 	font-size: 90%
+ 	margin: 10px;
+	height: 60px;
+	clear:both;
+	border-radius: 5px;
+	color: black;
+	padding: 15px;
+
+ }
